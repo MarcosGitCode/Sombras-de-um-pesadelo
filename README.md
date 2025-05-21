@@ -16,7 +16,7 @@ A história coloca o jogador em um pesadelo contínuo, onde passado e presente s
 
 - HTML5
 - Construct 3  
-- CSS3  
+- CSS
 - JavaScript
 
 ---
